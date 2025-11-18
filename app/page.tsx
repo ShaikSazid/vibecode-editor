@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
-      <Button className="mt-4">Get started</Button>
+      <Button className="mt-4">Get sHello my name is macchartarted</Button>
     </div>
   );
 }
